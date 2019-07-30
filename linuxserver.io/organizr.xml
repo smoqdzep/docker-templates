@@ -12,9 +12,9 @@
   </Changes>
   <Name>organizr</Name>
   <Project>https://github.com/causefx/Organizr</Project>
-  <Support>https://forums.lime-technology.com/topic/55563-support-linuxserverio-organizr/</Support>
-  <Repository>lsiocommunity/organizr</Repository>
-  <Registry>https://hub.docker.com/r/lsiocommunity/organizr/</Registry>
+  <Support>https://forums.unraid.net/topic/55563-support-linuxserverio-organizr/</Support>
+  <Repository>linuxserver/organizr</Repository>
+  <Registry>https://hub.docker.com/r/linuxserver/organizr/</Registry>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
   <Overview>HTPC/Homelab Services Organizer - Written in PHP</Overview>
